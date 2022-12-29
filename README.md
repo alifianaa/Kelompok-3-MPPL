@@ -99,4 +99,4 @@ Sprint VI
 - Menambah informasi ditangani atau belum di halaman penanganan
 
 
-                                                                                Kendala
+                                                                          
